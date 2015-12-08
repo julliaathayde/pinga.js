@@ -1,14 +1,10 @@
-# PHPinga
+# pinga.js
 
-[![Build Status](https://travis-ci.org/php-pb/PHPinga.svg)](https://travis-ci.org/php-pb/PHPinga)
-
-![PHPinga](./phpinga.png)
-
-Um jogo de perguntas relacionadas a PHP.
+Um jogo de perguntas relacionadas a Javascript.
 
 ## Regras
 
-Cada um na mesa deve responder a uma pergunta sobre PHP. Caso acerte, pode escolher uma pessoa pra beber, caso erre tem de beber.
+Cada um na mesa deve responder a uma pergunta sobre Javascript. Caso acerte, pode escolher uma pessoa pra beber, caso erre tem de beber.
 Ao terminar, passa-se para o jogador da esquerda.
 
 ## Contribuindo
