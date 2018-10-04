@@ -1,11 +1,10 @@
-# pinga.js
+# Pinga.js
 
-Um jogo de perguntas relacionadas a Javascript.
+Um jogo de perguntas relacionadas a JavaScript.
 
 ## Regras
 
-Cada um na mesa deve responder a uma pergunta sobre Javascript. Caso acerte, pode escolher uma pessoa pra beber, caso erre tem de beber.
-Ao terminar, passa-se para o jogador da esquerda.
+Cada um na mesa deve responder a uma pergunta sobre JavaScript. Caso acerte, pode escolher uma pessoa pra beber, caso erre tem de beber. Ao terminar, passa-se para o jogador da esquerda.
 
 ## Contribuindo
 
@@ -15,6 +14,12 @@ Para contribuir com perguntas e respostas basta fazer um fork e inserir suas per
 
 Rode o seguinte comando no terminal:
 
-    php -S localhost:8000
+```
+npm start
+```
 
-Acesse [localhost:8000](http://localhost:8000).
+Pinga.js estará acessível em http://localhost:8000. Que comecem os jogos!
+
+## Licença
+
+[ISC](LICENSE)
