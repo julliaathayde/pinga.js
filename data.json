@@ -8,6 +8,16 @@
         { "texto": "Douglas Crockford" },
         { "texto": "Jordan Walke" }
       ]
+    },
+    {
+      "pergunta": "Qual destes framewoks javascript não é para desenvolvimento frontend?",
+      "alternativas": [
+        { "texto": "Angular"},
+        { "texto": "AngularJS"},
+        { "texto": "Ember.js" },
+        { "texto": "Express.js", "correta": true  },
+        { "texto": "React" }
+      ]
     }
   ]
 }
