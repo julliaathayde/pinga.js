@@ -10,7 +10,7 @@
       ]
     },
     {
-      "pergunta": "Qual destes framewoks JavaScript não é para desenvolvimento frontend?",
+      "pergunta": "Qual destes framewoks JavaScript não é para desenvolvimento front-end?",
       "alternativas": [
         { "texto": "Angular"},
         { "texto": "AngularJS"},
