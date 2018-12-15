@@ -1,16 +1,30 @@
 {
   "name": "pinga.js",
   "version": "1.0.0",
+  "private": true,
   "description": "Um jogo de perguntas relacionadas a JavaScript",
   "author": "Sérgio Vilar <sergiovilar.r@gmail.com>",
   "repository": "paraibajs/pinga.js",
   "homepage": "https://github.com/paraibajs/pinga.js",
   "license": "ISC",
   "scripts": {
-    "start": "http-server -p 8000 .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "dependencies": {
-    "http-server": "^0.11.1"
-  }
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
